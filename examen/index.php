@@ -32,7 +32,7 @@
                     <a class="nav-link" href="registro.php">Registre</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Cursa</a>
+                    <a class="nav-link" href="https://www.youtube.com/watch?v=_iBzlzlz_Xk&ab_channel=Ra%C3%BAlL%C3%B3pezLigero">Cursa</a>
                   </li>
                 </ul>
               </nav>
